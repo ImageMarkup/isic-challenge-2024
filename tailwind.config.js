@@ -6,9 +6,11 @@ module.exports = {
   content: [
     './_includes/**/*.liquid',
     './_pages/**/*.liquid',
+    './_pages/**/*.md',
     './_layouts/**/*.liquid',
     './_posts/*.md',
     './*.liquid',
+    './*.md',
   ],
   theme: {
     extend: {},
