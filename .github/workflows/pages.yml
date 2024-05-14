@@ -50,7 +50,7 @@ jobs:
         uses: actions/configure-pages@v2
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: make install && make gh-pages
+        run: make install && bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}" --profile
         env:
           JEKYLL_ENV: production
           NODE_ENV: production
