@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
+ruby file: ".ruby-version"
 gem "jekyll", "~> 4.2"
 # Jekyll Plugins
 group :jekyll_plugins do
