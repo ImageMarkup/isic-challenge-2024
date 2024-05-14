@@ -98,9 +98,9 @@ DOI: [https://doi.org/10.34970/2020-ds01](https://doi.org/10.34970/2020-ds01)
 </table>
 </div>
 
-<p class="bg-amber-100 text-amber-800 p-6 mb-16 rounded-md">
+<p class="bg-warning text-warning-content p-6 mb-16 rounded-md">
   *The newer version of the DICOM files are provided to avoid potential errors stemming from readers implementing a strict DICOM verification, as implemented in 
-  <a href="http://dclunie.com/dicom3tools/dciodvfy.html">http://dclunie.com/dicom3tools/dciodvfy.html</a>.
+  <a href="http://dclunie.com/dicom3tools/dciodvfy.html" class="text-warning-content">http://dclunie.com/dicom3tools/dciodvfy.html</a>.
 </p>
  
 # Citing the 2020 dataset:
