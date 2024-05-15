@@ -3,12 +3,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "ISIC 2024 Challenge Dataset" # the name of your site, e.g. ACME Corp.
 
 github_username: imagemarkup
-google_analytics: G-T0GLER14F7
+google_analytics: G-FLS85FF99P
 
 email: support@isic-archive.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the landing page for the ISIC 2020 Challange Dataset
-  from DOI https://doi.org/10.34970/2020-ds01
+  This is the landing page for the ISIC 2024 Challenge Dataset
+  from DOI PLACEHOLDER
 
 postcss:
   cache: false
@@ -19,13 +19,13 @@ defaults:
     values:
       toc: false
   - scope:
-      path: '_posts'
+      path: "_posts"
       type: posts
     values:
       layout: post
       permalink: /:categories/:title/
   - scope:
-      path: '_pages'
+      path: "_pages"
       type: pages
     values:
       layout: page
@@ -34,7 +34,7 @@ collections:
   pages:
     output: true
     sort_by: order
-    
+
 exclude:
   - package.json
   - Makefile
