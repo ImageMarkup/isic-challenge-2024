@@ -5,7 +5,7 @@ hide_footer: true
 
 # Hero Text
 main_title: The ISIC 2024 Challenge Dataset
-sub_title: Including the SLICE-3D training dataset: 400,000 skin lesion image crops extracted from 3D TBP for skin cancer detection
+sub_title: Including the SLICE-3D training dataset - 400,000 skin lesion image crops extracted from 3D TBP for skin cancer detection
 ---
 
 # Official training and testing datasets of the ISIC 2024 Challenge
