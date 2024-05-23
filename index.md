@@ -52,6 +52,7 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
                 
                 <hr>
                 <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Training_Supplement.csv">Download Supplemental Metadata (40MB)</a>
+                <br>
                 401,059 metadata entries of attributes which may be useful for training cross-validation.
             </td>
             <td>
@@ -97,6 +98,7 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
                 
                 <hr>
                 <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Permissive_Training_Supplement.csv">Download Supplemental Metadata (21MB)</a>
+                <br>
                 217,477 metadata entries of attributes which may be useful for training cross-validation.
             </td>
             <td>
