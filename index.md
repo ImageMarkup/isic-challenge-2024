@@ -28,10 +28,10 @@ The training and testing datasets were curated for the **[ISIC 2024 Challenge]([
 DOI: [PLACEHOLDER](PLACEHOLDER)
 
 
-| Challenge Dataset | License | Images | Input Metadata | Supplemental Metadata | Test Ground Truth |
+| Challenge Dataset | License | Images | Input Metadata | Supplemental Metadata | Ground Truth |
 | ------ | ------- | ----------------- | ----------------- | - | - |
 | Training ("SLICE-3D") | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en) | - | - | - | - |
-| Testing | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en) | - | - | - | - |
+| Testing | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en) | - | - | - | Not available |
 
 
 
