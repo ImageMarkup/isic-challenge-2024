@@ -32,7 +32,6 @@ The training and testing datasets were curated for the [ISIC 2024 Challenge](htt
     <thead>
         <tr>
             <th><abbr title="Dataset">Dataset</abbr></th>
-
             <th><abbr title="Training Data">Training Data</abbr></th>
             <th><abbr title="Training Ground Truth Data">Training Ground Truth</abbr></th>
             <th><abbr title="Test Data">Test Data</abbr></th>
@@ -57,9 +56,8 @@ The training and testing datasets were curated for the [ISIC 2024 Challenge](htt
                 </a>
                 <br>
                 401,059 entries of gold standard lesion malignancy values.
-
             </td>
-            <td rowspan="2">
+            <td rowspan="1">
                 <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Test_Input.zip">
                     Download (1.5GB)
                 </a>
@@ -73,7 +71,6 @@ The training and testing datasets were curated for the [ISIC 2024 Challenge](htt
                 Not Available
                 </span>
                 </div>
-
             </td>
             <td>
                 <a href="https://creativecommons.org/licenses/by-nc/4.0/">
@@ -82,9 +79,7 @@ The training and testing datasets were curated for the [ISIC 2024 Challenge](htt
             </td>
         </tr>
         <tr>
-        
-            <td>SLICE-3D Permissive</td>
-            
+            <td>SLICE-3D Permissive</td>     
             <td>
                 <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Permissive_Training_Input.zip">
                     Download (623MB)
@@ -93,7 +88,6 @@ The training and testing datasets were curated for the [ISIC 2024 Challenge](htt
                 217,477 JPEG images of skin lesion image crops extracted from 3D TBP with metadata entries of age, sex,
                 general anatomic site, common patient identifier, clinical size, and various data from the TBP Lesion Visualizer*.
             </td>
-            
             <td>
                 <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Permissive_Training_GroundTruth.csv">
                     Download (4MB)
@@ -101,7 +95,9 @@ The training and testing datasets were curated for the [ISIC 2024 Challenge](htt
                 <br>
                 217,477 entries of gold standard lesion malignancy values.
             </td>
-            
+            <td>
+                <br>
+            </td>
             <td>
                 <div>
                 <span>
@@ -109,13 +105,11 @@ The training and testing datasets were curated for the [ISIC 2024 Challenge](htt
                 </span>
                 </div>
             </td>
-            
             <td>
                 <a href="https://creativecommons.org/licenses/by/4.0/">
                     CC-BY
                 </a>
-            </td>
-            
+            </td> 
         </tr>
     </tbody>
 </table>
