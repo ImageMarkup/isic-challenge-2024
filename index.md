@@ -49,6 +49,10 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
                 <br>
                 401,059 JPEG images of skin lesion image crops extracted from 3D TBP with metadata entries of age, sex,
                 general anatomic site, common patient identifier, clinical size, and various data fields from the TBP Lesion Visualizer*.
+                
+                <hr>
+                <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Training_Supplement.csv">Download Supplemental Metadata (40MB)</a>
+                401,059 metadata entries of attributes which may be useful for training cross-validation.
             </td>
             <td>
                 <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Training_GroundTruth.csv">
@@ -90,6 +94,10 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
                 <br>
                 217,477 JPEG images of skin lesion image crops extracted from 3D TBP with metadata entries of age, sex,
                 general anatomic site, common patient identifier, clinical size, and various data from the TBP Lesion Visualizer*.
+                
+                <hr>
+                <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Permissive_Training_Supplement.csv">Download Supplemental Metadata (21MB)</a>
+                217,477 metadata entries of attributes which may be useful for training cross-validation.
             </td>
             <td>
                 <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Permissive_Training_GroundTruth.csv">
