@@ -12,7 +12,7 @@ sub_title: Including the SLICE-3D training dataset - 400,000 skin lesion image c
 
 The datasets contains 15mm-by-15mm field-of-view cropped images centered on distinct lesions and are extracted from 3D total body photographs. These images are referred to as “tiles.” The official training dataset for the challenge is the SLICE-3D Dataset: 400,000 skin lesion image crops extracted from 3D TBP for skin cancer detection. The official testing dataset contain tiles from a separate set of patients.
 
-All data was curated by the International Skin Imaging Collaboration (ISIC), and images are contributed from the following sources:
+All data was curated by the International Skin Imaging Collaboration (ISIC), and images were contributed from the following sources:
 + Memorial Sloan Kettering Cancer Center (USA)
 + Hospital Clinic de Barcelona (Spain)
 + The University of Queensland (Australia)
@@ -23,9 +23,17 @@ All data was curated by the International Skin Imaging Collaboration (ISIC), and
 + Alfred Hospital (Australia)
 + FNQH Cairns (Australia)
 
-The training and testing datasets were curated for the **[ISIC 2024 Challenge]([https://www.kaggle.com](https://www.kaggle.com/competitions/isic-2024-challenge))** hosted on [Kaggle](https://www.kaggle.com/) during the Summer of 2024.
+The training and testing datasets were curated for the **[ISIC 2024 Challenge]([https://www.kaggle.com](https://www.kaggle.com/competitions/isic-2024-challenge)** hosted on [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/competitions/isic-2024-challenge) during the Summer of 2024.
 
 DOI: [PLACEHOLDER](PLACEHOLDER)
+
+
+| Challenge Dataset | License | Images | Input Metadata | Supplemental Metadata | Test Ground Truth |
+| ------ | ------- | ----------------- | ----------------- | - | - |
+| Training ("SLICE-3D") | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en) | - | - | - | - |
+| Testing | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.en) | - | - | - | - |
+
+
 
 <div class="overflow-x-auto">
 <table class="table table-zebra table-fixed w-full">
@@ -110,7 +118,7 @@ DOI: [PLACEHOLDER](PLACEHOLDER)
 
 # Citing the 2024 dataset:
 
-To comply with the attribution requirements of the [PLACEHOLDER license](https://creativecommons.org/licenses/), the aggregate "ISIC 2024" data must be cited as:
+To comply with the attribution requirements of the [CC-BY-NC license](https://creativecommons.org/licenses/), the aggregate "ISIC 2024" data must be cited as:
 
 <blockquote>
   <p>PLACEHOLDER <i>International Skin Imaging Collaboration</i> <a href="#" rel="noopener" target="_blank">PLACEHOLDER</a>
@@ -133,14 +141,9 @@ To comply with the attribution requirements of the [PLACEHOLDER license](https:/
 </blockquote>
 
 
-When referencing this dataset in your own manuscripts and publications, please use the
-following full citation:
+[//]: <> (When referencing this dataset in your own manuscripts and publications, please use the following full citation:)
 
-<blockquote>
-  <p>
-  </p>
-</blockquote>
-
+[//]: <> (blockquote blockquote)
 
 # Organizers
 
@@ -160,32 +163,23 @@ following full citation:
     + Kivanc Kose, Ph.D.
     + Allan Halpern, M.D.
     + Maura Gillis
-
 * ### Hospital Clinic de Barcelona:
-    + Josep Malvehy, M.D.
-      
+    + Josep Malvehy, M.D.      
 * ### the University of Queensland:
-    + H Peter Soyer, Prof., M.D.
-      
+    + H Peter Soyer, Prof., M.D.      
 * ### Medical University of Vienna:
-    + Harald Kittler, Prof., M.D.
-      
+    + Harald Kittler, Prof., M.D.      
 * ### University of Athens:
-    + Konstantinos Liopyris, M.D.
-      
+    + Konstantinos Liopyris, M.D.      
 * ### Melanoma Institute Australia:
     + Linda K Martin, M.D.
-    + Pascale Guitera, M.D.
-      
+    + Pascale Guitera, M.D.      
 * ### University Hospital of Basel:
-    + Alexander A Navarini, Prof., M.D.
-      
+    + Alexander A Navarini, Prof., M.D.      
 * ### Alfred Hospital:
-    + Victoria J Mar, M.D.
-      
+    + Victoria J Mar, M.D.      
 * ### FNQH Cairns:
     + Vin Rajeswaran, M.D.
-
 
 
 
