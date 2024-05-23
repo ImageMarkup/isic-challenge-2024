@@ -25,8 +25,6 @@ All data was curated by the International Skin Imaging Collaboration (ISIC), and
 
 The training and testing datasets were curated for the **[ISIC 2024 Challenge]([https://www.kaggle.com](https://www.kaggle.com/competitions/isic-2024-challenge)** hosted on [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/competitions/isic-2024-challenge) during the Summer of 2024.
 
-DOI: [PLACEHOLDER](PLACEHOLDER)
-
 
 <div class="overflow-x-auto">
 
