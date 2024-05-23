@@ -32,7 +32,8 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
     <thead>
         <tr>
             <th><abbr title="Dataset">Dataset</abbr></th>
-            <th><abbr title="Training Data">Training Data</abbr></th>
+            <th><abbr title="Training Images and Input Data">Training Images and Input Attributes</abbr></th>
+            <th><abbr title="Training Supplemental Metadata">Training Supplement</abbr></th>
             <th><abbr title="Training Ground Truth Data">Training Ground Truth</abbr></th>
             <th><abbr title="Test Data">Test Data</abbr></th>
             <th><abbr title="Test Ground Truth Data">Test Ground Truth</abbr></th>
@@ -49,8 +50,8 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
                 <br>
                 401,059 JPEG images of skin lesion image crops extracted from 3D TBP with metadata entries of age, sex,
                 general anatomic site, common patient identifier, clinical size, and various data fields from the TBP Lesion Visualizer*.
-                
-                <hr>
+            </td>
+            <td>
                 <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Training_Supplement.csv">Download Supplemental Metadata (40MB)</a>
                 <br>
                 401,059 metadata entries of attributes which may be useful for training cross-validation.
@@ -95,8 +96,8 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
                 <br>
                 217,477 JPEG images of skin lesion image crops extracted from 3D TBP with metadata entries of age, sex,
                 general anatomic site, common patient identifier, clinical size, and various data from the TBP Lesion Visualizer*.
-                
-                <hr>
+            </td>
+            <td>
                 <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Permissive_Training_Supplement.csv">Download Supplemental Metadata (21MB)</a>
                 <br>
                 217,477 metadata entries of attributes which may be useful for training cross-validation.
