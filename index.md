@@ -52,7 +52,7 @@ The training and testing datasets were curated for the **[ISIC 2024 Challenge]([
                 general anatomic site, common patient identifier, clinical size, and various data fields from the TBP Lesion Visualizer*.
             </td>
             <td>
-                <a href="https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_GroundTruth.csv">
+                <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Training_GroundTruth.csv">
                     Download (7MB)
                 </a>
                 <br>
@@ -71,9 +71,6 @@ The training and testing datasets were curated for the **[ISIC 2024 Challenge]([
                 <div>
   <span>
     Not Available
-  </span>
-  <span class="has-tooltip-right has-tooltip-multiline" data-tooltip="This data isn't available because it's currently being used in a Grand Challenge.">
-    <i class="material-icons is-pulled-right">help_outline</i>
   </span>
 </div>
 
@@ -95,7 +92,7 @@ The training and testing datasets were curated for the **[ISIC 2024 Challenge]([
                 general anatomic site, common patient identifier, clinical size, and various data from the TBP Lesion Visualizer*.
             </td>
             <td>
-                <a href="https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2024_Permissive_Training_GroundTruth.csv">
+                <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Permissive_Training_GroundTruth.csv">
                     Download (4MB)
                 </a>
                 <br>
@@ -106,9 +103,6 @@ The training and testing datasets were curated for the **[ISIC 2024 Challenge]([
                 <div>
   <span>
     Not Available
-  </span>
-  <span class="has-tooltip-right has-tooltip-multiline" data-tooltip="This data isn't available because it's currently being used in a Grand Challenge.">
-    <i class="material-icons is-pulled-right">help_outline</i>
   </span>
 </div>
 
