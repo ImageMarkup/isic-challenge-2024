@@ -23,7 +23,7 @@ All data was curated by the International Skin Imaging Collaboration (ISIC), and
 + Alfred Hospital (Australia)
 + FNQH Cairns (Australia)
 
-The training and testing datasets were curated for the **[ISIC 2024 Challenge]([https://www.kaggle.com](https://www.kaggle.com/competitions/isic-2024-challenge)** hosted on [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/competitions/isic-2024-challenge) during the Summer of 2024.
+The training and testing datasets were curated for the [ISIC 2024 Challenge](https://www.kaggle.com/competitions/isic-2024-challenge) hosted on [Kaggle](https://www.kaggle.com/competitions/isic-2024-challenge) during the Summer of 2024.
 
 
 <div class="overflow-x-auto">
@@ -69,10 +69,10 @@ The training and testing datasets were curated for the **[ISIC 2024 Challenge]([
             </td>
             <td>
                 <div>
-  <span>
-    Not Available
-  </span>
-</div>
+                <span>
+                Not Available
+                </span>
+                </div>
 
             </td>
             <td>
@@ -82,7 +82,9 @@ The training and testing datasets were curated for the **[ISIC 2024 Challenge]([
             </td>
         </tr>
         <tr>
+        
             <td>SLICE-3D Permissive</td>
+            
             <td>
                 <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Permissive_Training_Input.zip">
                     Download (623MB)
@@ -91,35 +93,44 @@ The training and testing datasets were curated for the **[ISIC 2024 Challenge]([
                 217,477 JPEG images of skin lesion image crops extracted from 3D TBP with metadata entries of age, sex,
                 general anatomic site, common patient identifier, clinical size, and various data from the TBP Lesion Visualizer*.
             </td>
+            
             <td>
                 <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Permissive_Training_GroundTruth.csv">
                     Download (4MB)
                 </a>
                 <br>
                 217,477 entries of gold standard lesion malignancy values.
-
             </td>
+            
             <td>
                 <div>
-  <span>
-    Not Available
-  </span>
-</div>
-
+                <span>
+                </span>
+                </div>
             </td>
+            
+            <td>
+                <div>
+                <span>
+                Not Available
+                </span>
+                </div>
+            </td>
+            
             <td>
                 <a href="https://creativecommons.org/licenses/by/4.0/">
                     CC-BY
                 </a>
             </td>
+            
         </tr>
     </tbody>
 </table>
 
 </div>
 
-<h3>Citing 2024 datasets:</h3>
-<h4>SLICE-3D</h4>
+<h2>Citing 2024 datasets:</h2>
+<h3>SLICE-3D</h3>
 To comply with the attribution requirements of the
 <a href="https://creativecommons.org/licenses/by-nc/4.0/">
     CC-BY-NC license
@@ -151,7 +162,10 @@ the aggregate "SLICE-3D" data must be cited as:
     </p>
 </blockquote>
 
-<h4>SLICE-3D Permissive</h4>
+
+
+
+<h3>SLICE-3D Permissive</h3>
 To comply with the attribution requirements of the
 <a href="https://creativecommons.org/licenses/by/4.0/">
     CC-BY license
