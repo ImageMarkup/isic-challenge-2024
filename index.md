@@ -105,13 +105,6 @@ The training and testing datasets were curated for the [ISIC 2024 Challenge](htt
             <td>
                 <div>
                 <span>
-                </span>
-                </div>
-            </td>
-            
-            <td>
-                <div>
-                <span>
                 Not Available
                 </span>
                 </div>
