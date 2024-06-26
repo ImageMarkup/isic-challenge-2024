@@ -72,7 +72,7 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
                 511,474 JPEG images of skin lesion image crops extracted from 3D TBP with metadata entries of age, sex,
                 general anatomic site, common patient identifier, clinical size, and various data fields from the TBP Lesion Visualizer*.
                 --->
-                Will be released at the start of the ISIC 2024 Challenge.
+                Not Available
             </td>
             <td>
                 <div>
@@ -110,6 +110,7 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
                 217,477 entries of gold standard lesion malignancy values.
             </td>
             <td>
+                Not Available
                 <br>
             </td>
             <td>
