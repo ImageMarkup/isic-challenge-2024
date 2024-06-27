@@ -3,7 +3,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "ISIC 2024 Challenge Dataset" # the name of your site, e.g. ACME Corp.
 
 github_username: imagemarkup
-google_analytics: G-FLS85FF99P
 
 email: support@isic-archive.com
 description: >- # this means to ignore newlines until "baseurl:"
