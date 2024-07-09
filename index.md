@@ -210,35 +210,29 @@ the aggregate "SLICE-3D Permissive" data must be cited as:
 * ### [Kaggle](https://www.kaggle.com/)
 
 ## Challenge Co-Chairs
-- Veronica Rotemberg, M.D., Ph.D. (Memorial Sloan Kettering Cancer Center, New York City, NY, USA)
-- Nicholas Kurtansky (Memorial Sloan Kettering Cancer Center, New York City, NY, USA)
+
+| Name |  Affiliation |
+| :--- | :--- |
+| Veronica Rotemberg, M.D., Ph.D. | Memorial Sloan Kettering Cancer Center, New York City, NY, USA) |
+| Nicholas Kurtansky | Memorial Sloan Kettering Cancer Center, New York City, NY, USA |
 
 ## Partners
 
-* ### Memorial Sloan Kettering Cancer Center:
-    + Jochen Weber
-    + Kivanc Kose, Ph.D.
-    + Allan Halpern, M.D.
-    + Maura Gillis
-* ### Hospital Clinic de Barcelona:
-    + Josep Malvehy, M.D.
-* ### the University of Queensland:
-    + H Peter Soyer, Prof., M.D.
-* ### Medical University of Vienna:
-    + Harald Kittler, Prof., M.D.
-* ### University of Athens:
-    + Konstantinos Liopyris, M.D.
-* ### Melanoma Institute Australia:
-    + Linda K Martin, M.D.
-    + Pascale Guitera, M.D.
-* ### University Hospital of Basel:
-    + Alexander A Navarini, Prof., M.D.
-* ### Alfred Hospital:
-    + Victoria J Mar, M.D.
-* ### FNQH Cairns:
-    + Vin Rajeswaran, M.D.
-
-
-
+| Name | Affiliation |
+| :--- | :--- |
+| Jochen Weber | Memorial Sloan Kettering Cancer Center |
+| Kivanc Kose, Ph.D. | Memorial Sloan Kettering Cancer Center |
+| Allan Halpern, M.D. | Memorial Sloan Kettering Cancer Center |
+| Maura Gillis | Memorial Sloan Kettering Cancer Center |
+| Josep Malvehy, M.D. | Hospital Clinic de Barcelona |
+| H Peter Soyer, Prof., M.D. | the University of Queensland |
+| Harald Kittler, Prof., M.D. | Medical University of Vienna |
+| Konstantinos Liopyris, M.D. | University of Athens |
+| Linda K Martin, M.D. | Melanoma Institute Australia |
+| Pascale Guitera, M.D. | Melanoma Institute Australia |
+| Alexander A Navarini, Prof., M.D. | University Hospital of Basel |
+| Victoria J Mar, M.D. | Alfred Hospital |
+| Vin Rajeswaran, M.D. | FNQH Cairns |
+| Noel Codella, Ph.D. | Microsoft |
 
 
