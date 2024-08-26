@@ -12,6 +12,9 @@ sub_title: Including the SLICE-3D training dataset - 400,000 skin lesion image c
 
 The training and testing datasets were curated for the [ISIC 2024 Challenge](https://www.kaggle.com/competitions/isic-2024-challenge) hosted on [Kaggle](https://www.kaggle.com/competitions/isic-2024-challenge) during the Summer of 2024.
 
+__A dataset descriptor covering the SLICD-3D dataset was published in Scientific Data and is openly available at
+[https://www.nature.com/articles/s41597-024-03743-w](https://www.nature.com/articles/s41597-024-03743-w).__
+
 The datasets contains 15mm-by-15mm field-of-view cropped images, centered on distinct lesions, that were extracted from 3D total body photographs. The official training dataset for the challenge is the SLICE-3D Dataset: 400,000 skin lesion image crops extracted from 3D TBP for skin cancer detection. The official testing dataset contain tiles from a separate set of patients.
 
 Datasets were curated by the International Skin Imaging Collaboration (ISIC) from images contributed from the following sources:
