@@ -205,7 +205,7 @@ the aggregate "SLICE-3D Permissive" data must be cited as:
     </p>
 </blockquote>
 
-### Version control
+# Version control
 
 Any future changes to the ISIC Archive will not affect the versions of the data available at the above links. The metadata on the ISIC Archive propper are subject to change. The training data reflected currently in the ISIC Archive propper are available at [https://api.isic-archive.com/collections/390/](https://api.isic-archive.com/collections/390/).
 
