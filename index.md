@@ -47,7 +47,7 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
         <tr>
             <td>SLICE-3D</td>
             <td>
-                <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Training_Input.zip">
+                <a href="https://isic-archive.s3.amazonaws.com/challenges/2024/ISIC_2024_Training_Input.zip">
                     Download (1.2GB)
                 </a>
                 <br>
@@ -55,12 +55,12 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
                 general anatomic site, common patient identifier, clinical size, and various data fields from the TBP Lesion Visualizer*.
             </td>
             <td>
-                <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Training_Supplement.csv">Download Supplemental Metadata (40MB)</a>
+                <a href="https://isic-archive.s3.amazonaws.com/challenges/2024/ISIC_2024_Training_Supplement.csv">Download Supplemental Metadata (40MB)</a>
                 <br>
                 401,059 metadata entries of attributes which may be useful for training cross-validation.
             </td>
             <td>
-                <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Training_GroundTruth.csv">
+                <a href="https://isic-archive.s3.amazonaws.com/challenges/2024/ISIC_2024_Training_GroundTruth.csv">
                     Download (7MB)
                 </a>
                 <br>
@@ -68,7 +68,7 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
             </td>
             <td rowspan="1">
                 <!---
-                <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Test_Input.zip">
+                <a href="https://isic-archive.s3.amazonaws.com/challenges/2024/ISIC_2024_Test_Input.zip">
                     Download (1.5GB)
                 </a>
                 <br>
@@ -93,7 +93,7 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
         <tr>
             <td>SLICE-3D Permissive</td>     
             <td>
-                <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Permissive_Training_Input.zip">
+                <a href="https://isic-archive.s3.amazonaws.com/challenges/2024/ISIC_2024_Permissive_Training_Input.zip">
                     Download (623MB)
                 </a>
                 <br>
@@ -101,12 +101,12 @@ Datasets were curated by the International Skin Imaging Collaboration (ISIC) fro
                 general anatomic site, common patient identifier, clinical size, and various data from the TBP Lesion Visualizer*.
             </td>
             <td>
-                <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Permissive_Training_Supplement.csv">Download Supplemental Metadata (21MB)</a>
+                <a href="https://isic-archive.s3.amazonaws.com/challenges/2024/ISIC_2024_Permissive_Training_Supplement.csv">Download Supplemental Metadata (21MB)</a>
                 <br>
                 217,477 metadata entries of attributes which may be useful for training cross-validation.
             </td>
             <td>
-                <a href="https://isic-challenge-data.s3.amazonaws.com/2024/ISIC_2024_Permissive_Training_GroundTruth.csv">
+                <a href="https://isic-archive.s3.amazonaws.com/challenges/2024/ISIC_2024_Permissive_Training_GroundTruth.csv">
                     Download (4MB)
                 </a>
                 <br>
